@@ -1,3 +1,7 @@
 # Natural lamguage processing
 
 It’s the branch of AI that gives machines the ability to read, understand, and generate human language.
+
+We take unstructured text (words, sentences, documents) → turn it into something machines can process → apply algorithms/models → and get meaningful outputs (like answers, summaries, translations, etc.).
+
+Modern NLP = Deep Learning + Transformers (BERT, GPT, LLaMA, Falcon, etc.).
