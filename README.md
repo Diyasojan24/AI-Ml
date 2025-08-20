@@ -10,6 +10,8 @@
  That means the input data includes both the features (X) and the correct output (Y).
     
 You give the model many examples of inputs with correct outputs, and it learns the pattern.
+
+
 Types of Supervised Learning:
 
 Regression:Predict continuous values
